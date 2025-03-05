@@ -1,0 +1,3 @@
+PathToProjectJson,PackageName,OrchestratorFolder,ProcessName,RunTests
+Blank Process 16/project.json,Blank.Process.16,Finance,Blank.Process.16,True
+ComputeSLA/project.json,ComputeSLA,Finance,ComputeSLA,False
